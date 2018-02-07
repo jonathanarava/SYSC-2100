@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Infix2PostfixConverter()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Infix2PostfixConverter\r\n
+comment2.params=c
+comment2.target=boolean\ isOperator(char)
+comment3.params=ch
+comment3.target=boolean\ isOperand(char)
+comment4.params=op1\ op2
+comment4.target=boolean\ isLowerPrecedence(char,\ char)
+comment5.params=ch
+comment5.target=int\ getPrecedence(char)
+comment6.params=infix
+comment6.target=java.lang.String\ convertPostfix(java.lang.String)
+comment6.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment7.params=result
+comment7.target=void\ getPostfix(int)
+numComments=8

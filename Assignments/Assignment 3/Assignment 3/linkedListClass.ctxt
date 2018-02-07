@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isEmpty()
+comment1.params=
+comment1.target=int\ size()
+comment10.params=
+comment10.target=void\ removeAll()
+comment2.params=data
+comment2.target=void\ add(char)
+comment3.params=
+comment3.target=int\ getCounter()
+comment4.params=
+comment4.target=void\ incrementCounter()
+comment5.params=
+comment5.target=void\ decrementCounter()
+comment6.params=
+comment6.target=void\ printStatement()
+comment7.params=data\ index
+comment7.target=void\ add(char,\ int)
+comment8.params=index
+comment8.target=boolean\ remove(int)
+comment9.params=index
+comment9.target=char\ get(int)
+numComments=11
